@@ -1,1 +1,1 @@
-![6a](6a.jpg)
+![vuex](vuex.png)

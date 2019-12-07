@@ -1,5 +1,13 @@
 # Vue 介绍
+
+<details>
+<summary>Title</summary>
+content!!!
+</details>
+
+
 `v-for` 的用法
+
 ```html
 <ul>
   <li v-for="i in 10">{{ i }}</li>
@@ -21,9 +29,9 @@
 
 # Vuep 使用
 
- <vuep  template="#example" :options="{ theme: 'the-matrix' }"></vuep>
+ <vuep  template="#example" :options="{ theme: 'the-matrix' }" ></vuep>
 
-<script v-pre type="text/x-template" id="example">
+<script v-pre type="text/x-template"  id="example">
  <template>
 <div>
 <el-button class="el-icon-edit"></el-button>
@@ -43,8 +51,11 @@
         return { name: 'V2123ue' }
       }
     }
+  </script>
 </script>
-</script>
+
+
+
 
 
 
@@ -130,7 +141,6 @@
   .text {
     font-size: 14px;
   }
-
   .item {
     margin-bottom: 15px;
   }
@@ -219,4 +229,14 @@ export default {
 | 事件名            | 说明                                                        | 返回值              |
 | ----------------- | ----------------------------------------------------------- | ------------------- |
 | on-validate 4.0.0 | 任一表单项被校验后触发，返回表单项 prop、校验状态、错误消息 | prop, status, error |
+
+
+
+
+
+> **Important** notice with `inline code` and additional placeholder text used
+> to force the content to wrap and span multiple lines.
+
+> **Important** notice with `inline code` and additional placeholder text used to
+> force the content to wrap and span multiple lines.
 
