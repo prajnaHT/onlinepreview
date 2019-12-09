@@ -70,12 +70,17 @@ content!!!
  <vuep  template="#example" :options="{ theme: 'the-matrix' }" ></vuep>
 
 <script v-pre type="text/x-template"  id="example">
- <template>
+<template>
 <div>
 <el-button class="el-icon-edit"></el-button>
 <el-button class="el-icon-share"></el-button>
 <el-button class="el-icon-delete"></el-button>
 <el-button class="el-icon-search"></el-button>
+<br><br>
+<el-button type="info" class="el-icon-edit" circle></el-button>
+<el-button type="primary" class="el-icon-share"  circle></el-button>
+<el-button class="el-icon-delete"  circle></el-button>
+<el-button type="success" class="el-icon-search" circle></el-button>
 </div>
 </template>
 <style scoped>
@@ -89,11 +94,8 @@ content!!!
         return { name: 'V2123ue' }
       }
     }
-  </script>
 </script>
-
-
-
+</script>
 
 
 
