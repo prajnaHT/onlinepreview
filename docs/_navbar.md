@@ -1,6 +1,5 @@
-* Info
-    * [简介](README.md)
+* Language
+    * [中文](/)
+    * [日本语](/ja/)
+    * [En](/en/)
 
-* JavaScript
-    * [基础](/javascript/base.md)
-    * [This](/javascript/this.md)
