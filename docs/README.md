@@ -171,7 +171,7 @@ Image:
 
 图片加链接 (Image + Link)：
 
-[![](logo.jpg)](logo.jpg "这就是一张图片")
+[![](timg.jpg)](logo.jpg "这就是一张图片")
 
 > 图片加链接这么弄
                 
