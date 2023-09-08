@@ -6,7 +6,7 @@
 
 
 
-<iframe src="http://www.chen-studio.com/index.php/code.html" style="height:500px"></iframe>
+<iframe src="http://www.chen-studio.com/buddha/submittryit.html" style="height:500px"></iframe>
 
 <img src="home-bg-2.jpg" width="70%" style="margin-left:20px"/>
 
