@@ -1,10 +1,6 @@
-[![stars](https://badgen.net/github/stars/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://github.com/Q-Angelo/Nodejs-Roadmap) 
-[![weixin](https://badgen.net/badge/徽章/homepage/green)](https://badgen.net/)
 
 > <img width="120px" style="margin-left:20px;border-radius:50%"  src="timg.jpg?x-oss-process=style/may">
 
-<div  style="background-color: #ef7a82;color:white;text-align:center">GOALS: 600 </div>
-<div  style="background-color: #7ebeab;color:white;text-align:center">Need: 170 </div>
 
 * [首 页](/)
   * [程序开发](?id=Headline2)
@@ -16,25 +12,4 @@
   * [财经投资](?id=Headline)
   * *  [美股](?id=Headline)  
   * *  [基金](?id=Headline2)  
-  * *  [资产](?id=Headline)  
-  * *  [债务/税](?id=Headline2) 
-  * *  [现金流游戏](?id=Headline)
-  * [宝宝教育](?id=Headline)
-  * *  [选书](?id=Headline)  
-  * *  [认识](?id=Headline2)  
-  * *  [分类/分解](?id=Headline)  
-  * *  [问题/运动](?id=Headline2) 
-  * *  [解决问题](?id=Headline) 
-  * *  [方法论](?id=Headline)      
-  * [无尽探索](?id=Headline2)
-  * *  [大自然](?id=Headline)  
-  * *  [冥想禅修瀑布](?id=Headline)  
-  * *  [塔罗灵气梦](?id=Headline2)  
-  * *  [宇宙太空](?id=Headline)  
 * [版权信息](copyright)
-* [序](preface)
-* 第一篇
-  * [第1章](a/1)
-  * [第2章](a/2)
-* 第二篇
-  * [第3章](b/3)
