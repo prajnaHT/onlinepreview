@@ -5,9 +5,6 @@
  [docsify - 生成文档网站简单使用教程](https://segmentfault.com/a/1190000017576714)
 
 
-
-<iframe src="http://www.chen-studio.com/buddha/submittryit.html" style="height:500px"></iframe>
-
 <img src="home-bg-2.jpg" width="70%" style="margin-left:20px"/>
 
 * # **[home1](home1)**
